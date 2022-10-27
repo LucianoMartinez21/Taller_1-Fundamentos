@@ -8,3 +8,8 @@ semiformal tirando a formal presentacion
 individual
 informe
 presentacion pro y en contra
+
+
+
+Definiendo pruebas:
+Prueba teorica = Prueba practica ambas seran evaluadas el mismo dia.
